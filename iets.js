@@ -11,6 +11,7 @@ const age3 = 40;
 console.log(age3);
 
 */
+/*
 //string
 let idk = "knor knor ";
 let idk2 = 'het gaat "werken"';
@@ -33,3 +34,9 @@ console.log(afstand)
 console.log(afstand2)
 console.log(idk)
 console.log(idk2)
+*/
+//comparison
+let x = 29
+age = (x == 20)
+
+console.log(age)
